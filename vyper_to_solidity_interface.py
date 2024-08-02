@@ -1,6 +1,10 @@
 import re
 import sys
 from typing import List, Tuple, Optional
+"""
+Originally from https://github.com/ZeframLou
+Slight improvements, YMMV
+"""
 
 def main() -> None:
     """
